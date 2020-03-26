@@ -23,4 +23,10 @@ GND
 
 # gyro
 the gyro indacates the floating position in most cases its centered
-![alt text](https://raw.githubusercontent.com/kiwiton/submarine/blob/master/submarine.jpg)
+as in submarine.jpg is shown
+but is also able to light up 2 led's if needed shown in subUp&Right.jpg
+
+# meassurements
+all the meassurements are displayed in the serial monitor but that was actually not the first thought
+normaly I planned on using an oled as you can observe in the code but unfortunatly it past away during the procces of making this project
+R.I.P OLED :(
