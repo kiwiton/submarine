@@ -70,7 +70,8 @@ float pressure; //used as variable for bmp sensor
 void setup() {
   pinMode(onder, OUTPUT);
   pinMode(midden, OUTPUT);
-  pinMode(links, OUTPUT);
+  pinMode(links, OUTPUT);  
+  pinMode(rechts, OUTPUT);
   pinMode(boven, OUTPUT);
   pinMode(aanled, OUTPUT);
   pinMode(alarmled, OUTPUT);
