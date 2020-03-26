@@ -1,0 +1,14 @@
+pin	
+A4	SDA
+A5	SCL
+Vin	
+GND	
+2	  led under
+3	  led mid
+4	  led left
+5	  led up
+6	  led right
+7	  DHT data
+8	  onled
+9	  ventilator
+10	alarmled
