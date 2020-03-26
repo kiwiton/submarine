@@ -14,7 +14,7 @@ DHT dht(DHTPIN, DHTTYPE);
 #include <Adafruit_Sensor.h>
 
 //inits bmp sensor
-//#include <arduino.h>  //!!NOTE!!//
+#include <arduino.h>  //!!NOTE!!//
 #include <Wire.h>
 //#include <SPI.h>
 #include <Adafruit_BMP280.h>
